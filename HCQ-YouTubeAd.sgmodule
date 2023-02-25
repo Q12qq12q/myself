@@ -1,5 +1,7 @@
 #!name = YouTube去廣告
 #!desc =支持pip，後臺播放
+#!homepage = https://github.com/deezertidal
+#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 [URL Rewrite]
 ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad _ REJECT-IMG
